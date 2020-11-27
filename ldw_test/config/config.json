@@ -1,0 +1,10 @@
+{
+"host": "127.0.0.1",
+"port": 1883,
+"username":"username",
+"password":"password",
+"ca_cert": "ca_cert.crt",
+"certfile": "cert.crt",
+"keyfile": "key.pem",
+"topic0": "topic_xxx"
+}
